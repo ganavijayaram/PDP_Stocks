@@ -1,0 +1,89 @@
+Code status questionnaire:
+
+Please complete this questionnaire by selecting the appropriate answer for each question. Then include this file in the code that you send to your customers.
+
+Load an inflexible portfolio from file: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Save an inflexible portfolio to file: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Load a flexible portfolio from file: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Save a flexible portfolio to file: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Add stocks to an inflexible portfolio at the time of creation: Yes
+Working through text UI: Yes
+Working through GUI: No ( GUI only support transactions on flexible portfolio)
+
+Add stocks to a flexible portfolio at the time of creation: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Buy stocks on specific date and add to flexible portfolio after creation: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Sell stocks on specific data from flexible portfolio: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+
+Determine composition of inflexible portfolio: Yes
+Working through text UI: Yes
+Working through GUI: No
+
+Determine composition of a flexible portfolio at a specific date: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Determine value of an inflexible portfolio at a specific date: Yes
+Working through text UI: Yes
+Working through GUI: No
+
+Determine value of a flexible portfolio at a specific date: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Support for AlphaVantage API: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Support for all ticker symbols reported by AlphaVantage API: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Commission fees for each transaction: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Commission fees decided by user: Yes
+
+Plot portfolio performance over time: Yes
+Working through text UI: Yes
+Working through GUI: Yes
+
+Support investing money in several stocks according to specified weights: Yes
+Working through GUI: Yes
+
+Add dollar-cost averaging strategy to an existing portfolio: Yes
+Working through GUI: Yes
+
+Create portfolio with dollar-cost averaging strategy: Yes
+Working through GUI: Yes
+
+Class diagram included with code: Yes
+
+DESIGN-README included with code: Yes
+
+SETUP_README included with code: Yes
+
+Program:
+
+Program runs by running main? Yes
